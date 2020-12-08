@@ -1,0 +1,10 @@
+body {
+    background: url("background.jpeg") repeat fixed;
+}
+
+#main {
+    margin: 5% 15%;
+    opacity: 0.8;
+    background-color: gray;
+    padding: 30px;
+}
